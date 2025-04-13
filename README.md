@@ -1,3 +1,4 @@
+# THIS DOES NOT WORK - SCRAPPED PROJECT
 # YouTube Ad Blocker
 
 A Python-based tool that helps you skip YouTube ads by automatically clicking through the ad interface. This tool works by simulating mouse clicks to navigate through YouTube's ad interface and skip ads.
@@ -11,7 +12,7 @@ A Python-based tool that helps you skip YouTube ads by automatically clicking th
 
 ## Requirements
 
-- Python 3.8 or higher
+- Python 3.10 or higher
 - Windows operating system
 - One of the supported browsers with YouTube open
 
